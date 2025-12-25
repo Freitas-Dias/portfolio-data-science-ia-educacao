@@ -44,28 +44,10 @@ Exemplos focados em:
 
 ---
 
-### 3. Saúde e Contextos Educacionais em Saúde
-Uso responsável de prompts para:
-- explicação de conceitos,
-- simulações educativas,
-- produção de materiais informativos,
-respeitando limites éticos e legais.
-
-📁 `03-saude-clinica-educacional/`
-
----
-
-### 4. Gestão e Produtividade Intelectual
+### 3. Gestão e Produtividade Intelectual
 Prompts aplicados à organização de estudos, projetos acadêmicos, planejamento e tomada de decisão estruturada.
 
 📁 `04-gestao-e-produtividade/`
-
----
-
-### 5. Análises Comparativas
-Comparação direta entre prompts fracos e prompts otimizados, evidenciando o impacto das técnicas de Engenharia de Prompt na qualidade das respostas.
-
-📁 `05-analise-comparativa/`
 
 ---
 
