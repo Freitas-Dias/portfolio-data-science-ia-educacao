@@ -20,10 +20,8 @@ Obras clássicas e contemporâneas sobre IA, ciência de dados, educação e met
 ### 📄 Artigos Científicos
 📄 `artigos-cientificos.md`  
 Artigos revisados por pares que abordam:
-- modelos de linguagem,
-- IA na educação,
-- aplicações em saúde,
-- validade, confiabilidade e evidência científica.
+- Engenharia de Prompts,
+- Ética e governança em IA.
 
 ---
 
