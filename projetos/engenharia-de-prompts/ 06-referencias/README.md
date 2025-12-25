@@ -3,8 +3,6 @@
 ## Objetivo
 Este diretório reúne as principais referências teóricas, metodológicas e éticas que fundamentam os projetos apresentados neste repositório, especialmente nas áreas de:
 - Engenharia de Prompts,
-- Inteligência Artificial aplicada à Educação e à Saúde,
-- Pesquisa científica e metodologia,
 - Ética e governança em IA.
 
 As referências aqui listadas sustentam o uso responsável, crítico e cientificamente embasado da Inteligência Artificial.
