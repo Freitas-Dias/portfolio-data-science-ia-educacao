@@ -71,3 +71,32 @@ Esta fase consolida as ferramentas, metodologias e conhecimentos formais.
 * Didática inovadora (transformar conteúdos complexos em aprendizado acessível)
 * Curadoria de conhecimento interdisciplinar (educação, tecnologia, saúde, idiomas)
 * Inovação em negócios digitais (IA aplicada à educação e poliglotismo)
+
+## 📌 Relatório Analítico | Perfil de Habilidades
+
+### 🛠️ Habilidades Técnicas (*Hard Skills*)
+
+* Bioestatística (SPSS avançado, R básico)
+* Psicometria e análise quantitativa
+* Metodologia da pesquisa científica
+* Revisão sistemática e leitura crítica
+* Fisiologia do exercício
+* Publicação científica internacional (artigos e livros)
+* Desenvolvimento de aplicativos educacionais (Lovable, Google IA Studio, Hugging Face)
+* Idiomas: Português (nativo), Inglês (B2), Espanhol (B1), Francês (A2)
+
+### 🧠 Habilidades Comportamentais (*Soft Skills*)
+
+* Clareza na comunicação científica
+* Organização e disciplina
+* Atenção aos detalhes e rigor metodológico
+* Liderança acadêmica (grupos de pesquisa, orientação de mestrado/doutorado)
+* Gestão de projetos complexos (fomento, colaborações internacionais)
+* Decisão baseada em dados
+
+### 🎨 Habilidades Criativas
+
+* Didática inovadora (transformar conteúdos complexos em aprendizado acessível)
+* Curadoria de conhecimento interdisciplinar (educação, tecnologia, saúde, idiomas)
+* Inovação em negócios digitais (IA aplicada à educação e poliglotismo)
+  
