@@ -1,4 +1,4 @@
-# 01-IA_Mentor_Carreira
+# IA Mentor de Carreira: Descubra Seu Futuro em Tech
 
 Este módulo faz parte do projeto de mentoria assistida por IA, focado em ajudar profissionais a navegarem com sucesso no mercado de tecnologia.
 
