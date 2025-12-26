@@ -100,3 +100,15 @@ Esta fase consolida as ferramentas, metodologias e conhecimentos formais.
 * Curadoria de conhecimento interdisciplinar (educação, tecnologia, saúde, idiomas)
 * Inovação em negócios digitais (IA aplicada à educação e poliglotismo)
   
+## 📊 Matriz de Habilidades e Tendências
+
+| Habilidade | Demanda Atual | Amplitude de Aplicação | Empregabilidade | Tendência | Ranque |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Bioestatística & Psicometria** | Alta (pesquisa, saúde, dados) | Acadêmico, consultoria, saúde | Muito alta | IA + ciência de dados | ⭐⭐⭐⭐ |
+| **Revisão Sistemática** | Alta (ciência aberta, saúde) | Acadêmico, consultoria | Alta | Evidência científica | ⭐⭐⭐ |
+| **Publicação Científica** | Média | Acadêmico | Alta | Ciência aberta | ⭐⭐⭐ |
+| **Metodologia da Pesquisa** | Alta | Educação, consultoria | Alta | Educação digital | ⭐⭐⭐⭐ |
+| **Desenvolvimento de Aplicativos (IA)** | Muito alta | Educação, negócios digitais | Muito alta | IA generativa | ⭐⭐⭐⭐⭐ |
+| **Idiomas** | Média | Educação, consultoria, negócios | Média | Globalização | ⭐⭐ |
+| **Liderança Acadêmica** | Alta | Educação, pesquisa | Alta | Colaboração internacional | ⭐⭐⭐⭐ |
+| **Didática Inovadora** | Alta | Educação, cursos digitais | Alta | EdTech | ⭐⭐⭐⭐ |
