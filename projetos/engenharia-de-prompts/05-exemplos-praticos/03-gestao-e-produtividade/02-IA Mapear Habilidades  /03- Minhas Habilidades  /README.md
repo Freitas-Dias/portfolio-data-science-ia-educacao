@@ -1,3 +1,5 @@
+## ✅ Etapa 1: Inventário de Habilidades
+
 ## 📌 Habilidades | Fase 1 (Comportamental e Criativa)
 
 ### 🧠 Habilidades Comportamentais (Soft Skills)
@@ -112,3 +114,65 @@ Esta fase consolida as ferramentas, metodologias e conhecimentos formais.
 | **Idiomas** | Média | Educação, consultoria, negócios | Média | Globalização | ⭐⭐ |
 | **Liderança Acadêmica** | Alta | Educação, pesquisa | Alta | Colaboração internacional | ⭐⭐⭐⭐ |
 | **Didática Inovadora** | Alta | Educação, cursos digitais | Alta | EdTech | ⭐⭐⭐⭐ |
+
+
+## ✅ Etapa 2 – Cruzamento com necessidades do mercado 🔎
+
+### 1. Idiomas + Organização de Estudos
+
+Problema resolvido: Pessoas que querem aprender idiomas mas não sabem estruturar rotina e método.
+Demanda: Alta e crescente, especialmente em plataformas digitais (Duolingo, Preply, Coursera). Google Trends mostra aumento em buscas por “como aprender inglês sozinho” e “planejamento de estudos de idiomas” desde 2024 (inferência baseada em tendências).
+Nicho valorizado: Estudantes independentes, profissionais que precisam de inglês/espanhol para carreira, e edtechs.
+
+### 2. Letramento em Inteligência Artificial
+
+* Problema resolvido: Profissionais e estudantes que precisam entender IA aplicada sem serem programadores.
+* Demanda: Explosiva desde 2023, com LinkedIn Insights mostrando aumento em cursos de “AI literacy” e “prompt engineering” (dado verificado).
+* Nicho valorizado: Universidades, empresas de educação corporativa, profissionais liberais.
+
+### 3. Análise de Dados (Bioestatística + Psicometria)
+
+* Problema resolvido: Empresas e pesquisadores que coletam dados mas não sabem interpretar ou tomar decisões.
+* Demanda: Constante e crescente, especialmente em saúde, educação e negócios.
+* Nicho valorizado: Clínicas, startups de saúde, universidades, ONGs.
+
+### 4. Curadoria Interdisciplinar + IA (futuro)
+
+* Problema resolvido: Universidades que querem integrar IA em programas educacionais.
+* Demanda: Emergente, mas com forte tendência internacional (inferência baseada em relatórios da UNESCO e OECD sobre IA na educação).
+* Nicho valorizado: Universidades internacionais, centros de pesquisa, edtechs.
+
+## ✅ Etapa 3 – Caminhos de monetização 💰
+
+| Caminho | Formatos de Oferta | Justificativa de Mercado | Tipo | Barreira de Entrada | Tempo de Retorno | Riscos / Limitações |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Idiomas + Org. de Estudos** | Curso digital, ebook, mentoria em grupo | Alta demanda por autoaprendizado | Escalável | Baixa | Curto prazo | Saturação, precisa de diferenciação |
+| **Letramento em IA** | Curso online, workshop, micro-certificação | Tendência global em *IA literacy* | Escalável + Ativa | Média | Médio prazo | Atualização constante, concorrência |
+| **Análise de Dados** | Consultoria, pacote de análise, curso prático | Decisões baseadas em dados (B2B) | Ativa | Média | Curto prazo | Dependência de reputação e tempo |
+| **Curadoria + IA** | Consultoria educacional, programas institucionais | Nicho emergente internacional | Ativa + Semi-escalável | Alta | Longo prazo | Exige networking e credenciais |
+
+📌 Síntese estratégica analítica
+
+🎯 Habilidades-Chave Priorizadas
+
+* **Idiomas + Organização de estudos**
+* **Letramento em IA**
+* **Análise de dados**
+
+### 📈 Demanda de Mercado
+
+* **Idiomas e IA:** Demanda escalável imediata.
+* **Análise de Dados:** Nicho ativo com retorno rápido.
+* **Curadoria Interdisciplinar:** Aposta estratégica para o futuro.
+
+💰 Fontes de Renda
+
+| Tipo | Exemplos de Atuação |
+| --- | --- |
+| **Ativas** | Consultoria em análise de dados, workshops de IA. |
+| **Escaláveis** | Cursos digitais (Idiomas/IA), ebooks, apps educacionais. |
+
+⚖️ Trade-offs
+
+* **Escalável:** Maior potencial de crescimento, porém exige alta diferenciação e investimento em marketing.
+* **Ativa:** Retorno financeiro mais rápido, mas limitada pelo seu tempo e reputação pessoal.
