@@ -10,7 +10,8 @@ Informações fornecidas pelo usuário (Dados de Entrada)
 
 Idioma-alvo: [insira o idioma]
 Nível de proficiência: [A1, A2 | B1, B2 | C1, C2]
-Música escolhida: [título da música – intérprete]
+Música escolhida: [título da música – intérprete] e link do YouTube]
+Letra da música: [Inserir a letra da música]
 
 Instruções para geração da aula
 
