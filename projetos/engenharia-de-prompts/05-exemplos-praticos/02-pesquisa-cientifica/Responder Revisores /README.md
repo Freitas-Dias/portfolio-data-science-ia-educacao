@@ -57,3 +57,6 @@ Begin your response to each comment with a sentence of appreciation, such as “
 
 **[FINAL INSTRUCTION – REITERATION]:**
 Respond to EACH of the reviewers’ comments listed in the “Input Data” section, strictly following all the guidelines, restrictions, and the output format specified above. Your persona is that of a senior psychometrician.
+
+**[COMMAND]**
+Can I send you the reviewer's comment and my response to the reviewer so you can help me reply to the reviewer's comment?
